@@ -51,4 +51,5 @@
   <java-symbol type="string" name="lock_to_app_toast_back" />
   <java-symbol type="string" name="app_unpin_message" />
   <java-symbol type="bool" name="config_dozeAlwaysOnDisplayEnabledDefault" />
+  <java-symbol type="bool" name="config_canForceDozeNotifications" />
 </resources>
